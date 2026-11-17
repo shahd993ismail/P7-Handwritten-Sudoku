@@ -1,0 +1,26 @@
+[
+  {
+    "name": "puzzle_00",
+    "n_givens": 30
+  },
+  {
+    "name": "puzzle_01",
+    "n_givens": 32
+  },
+  {
+    "name": "puzzle_02",
+    "n_givens": 35
+  },
+  {
+    "name": "puzzle_03",
+    "n_givens": 30
+  },
+  {
+    "name": "puzzle_04",
+    "n_givens": 32
+  },
+  {
+    "name": "puzzle_05",
+    "n_givens": 35
+  }
+]

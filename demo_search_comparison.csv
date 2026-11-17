@@ -1,0 +1,7 @@
+search,NN,status,recovered,corrections,cost,generated,expanded,goal_tests,pruned,time_s
+UCS,ON,solved_after_correction,True,2,1.97738778087602,7,3,4,0,0.0226
+UCS,OFF (uniform cost),no_solution,False,0,inf,81,81,81,0,0.0143
+Greedy,ON,solved_after_correction,True,2,1.97738778087602,3,2,3,4,0.0204
+Greedy,OFF (uniform cost),no_solution,False,0,inf,5,5,5,20,0.0101
+A*,ON,solved_after_correction,True,2,1.97738778087602,3,2,3,4,0.0209
+A*,OFF (uniform cost),no_solution,False,0,inf,5,5,5,20,0.0105

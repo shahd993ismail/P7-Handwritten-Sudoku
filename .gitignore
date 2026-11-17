@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+# downloaded / derived data (recreate with: python -m data.make_data)
+data/raw/*.gz
+data/raw/*.part
+data/processed/*.npz
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

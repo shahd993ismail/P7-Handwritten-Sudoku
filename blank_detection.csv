@@ -1,0 +1,4 @@
+input,n,flagged_blank,min_central_ink,mean_central_ink
+MNIST test digits (1-9),9020,0,0.050872553139925,0.24244925135750728
+empty cells,1000,1000,0.0,0.0
+empty cells + paper noise (std 0.03),1000,1000,0.009393402375280857,0.011977202660404146
